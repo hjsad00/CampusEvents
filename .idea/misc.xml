@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/Backend/eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/Backend/Microservices/venue-service/venue-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Backend/GateWay/pom.xml" />
+        <option value="$PROJECT_DIR$/Backend/Microservices/registration-service/pom.xml" />
       </list>
     </option>
   </component>
